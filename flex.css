@@ -1,19 +1,25 @@
 body {
-    background-color: darkgray;
+    background-color: rgb(57, 35, 56);
 }
 
 .container h3 {
-    background-color: red;
+    background-color: rgb(111, 72, 109);
 }
 
 .container p {
-    background-color: lightgreen;
+    background-color: rgb(111, 72, 109);
 }
 
 .container a {
-    background-color: yellow;
+    background-color: rgb(111, 72, 109);
 }
 
 .container {
-    background-color: beige;
+    background-color: rgb(187, 123, 184);
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+    flex-wrap: wrap;
 }

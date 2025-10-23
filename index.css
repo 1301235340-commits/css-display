@@ -1,7 +1,11 @@
 body {
-    background-color: darkgray;
+    background-color: rgb(86, 83, 83);
 }
 
 i {
-    background-color: yellow;
+    background-color: rgb(145, 165, 116);
+}
+
+p {
+    display: inline;
 }
